@@ -1,0 +1,16 @@
+C:\Users\kliker\source\repos\mysql1\mysql1\bin\Debug\mysql1.exe.config
+C:\Users\kliker\source\repos\mysql1\mysql1\bin\Debug\mysql1.exe
+C:\Users\kliker\source\repos\mysql1\mysql1\bin\Debug\mysql1.pdb
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.csproj.AssemblyReference.cache
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\MainWindow.g.cs
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\App.g.cs
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1_MarkupCompile.cache
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1_MarkupCompile.lref
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\MainWindow.baml
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.g.resources
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.Properties.Resources.resources
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.csproj.GenerateResource.cache
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.csproj.CoreCompileInputs.cache
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.exe
+C:\Users\kliker\source\repos\mysql1\mysql1\obj\Debug\mysql1.pdb
